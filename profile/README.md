@@ -1,3 +1,7 @@
+
+![HMC_STUDIOS](https://github.com/Suffix30/MultiverseMC/assets/49195535/92527e2e-f75b-43fb-9179-7a0d9e45c2c5)
+
+
 ### Hey there 👋
 
 This is the official Github page of the *HMC* Minecraft Bedrock Server!
